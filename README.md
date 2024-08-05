@@ -21,3 +21,5 @@ Build web bundle
 ```bash
 npm run build
 ```
+
+MIT License
