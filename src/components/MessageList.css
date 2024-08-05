@@ -1,0 +1,14 @@
+.align-right {
+  text-align: right;
+}
+
+#chat-page ion-item {
+  --inner-padding-end: 0;
+  --background: transparent;
+}
+
+#chat-page ion-label {
+  margin-top: 2em;
+  margin-bottom: 2em;
+  margin-left: 1em;
+}
