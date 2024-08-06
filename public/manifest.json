@@ -1,6 +1,6 @@
 {
-  "short_name": "Ionic App",
-  "name": "My Ionic App",
+  "short_name": "8 Ball",
+  "name": "Magic 8 Ball",
   "icons": [
     {
       "src": "assets/icon/favicon.png",
